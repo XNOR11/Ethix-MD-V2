@@ -89,10 +89,10 @@ const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0
           interactiveMessage: proto.Message.InteractiveMessage.create({
             body: proto.Message.InteractiveMessage.Body.create({
               text: `╭─────────────━┈⊷
-│🤖 ʙᴏᴛ ɴᴀᴍᴇ: *ᴇᴛʜɪx-ᴍᴅ*
+│🤖 ʙᴏᴛ ɴᴀᴍᴇ: *X.N.O.R-MD*
 │📍 ᴠᴇʀꜱɪᴏɴ: 2.1.0
-│👨‍💻 ᴏᴡɴᴇʀ : *ᴇᴛʜɪx xsɪᴅ*      
-│👤 ɴᴜᴍʙᴇʀ: 919142294671
+│👨‍💻 ᴏᴡɴᴇʀ : *X.N.O.R*      
+│👤 ɴᴜᴍʙᴇʀ: +94703090240
 │📡 ᴘʟᴀᴛғᴏʀᴍ: *${os.platform()}*
 │🛡 ᴍᴏᴅᴇ: *${mode}*
 │💫 ᴘʀᴇғɪx: [${pref}]
