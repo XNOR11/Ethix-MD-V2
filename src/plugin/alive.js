@@ -138,7 +138,7 @@ https://whatsapp.com/channel/0029ValM9aSL7UVVtj2uvV3x
   }
 }
 await Matrix.sendMessage(m.from, {
-  image: fs.readFileSync('./src/ethix1.jpg'), 
+  image: fs.readFileSync('./src/IMG-20240917-WA0031.jpg'), 
   caption: str, 
   contextInfo: {
                   mentionedJid: [m.sender], 
